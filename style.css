@@ -175,11 +175,11 @@ h1{
 
 @media only screen and (max-width:360px){
     body{
-        width: 90%;
-        margin: 0 20px;
+        width: 100%;
+        margin: 0 10px;
     }
     .weather-app-container{
-        width: 70%;
+        width: 110%;
     }
     .weather-gif{
         width: 100%;
